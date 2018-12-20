@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Personal Blog</title>
-    <link>http://example.org/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://example.org/categories/development/</link>
+      <link>/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/development/</guid>
+      <guid>/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Features</title>
-      <link>http://example.org/categories/features/</link>
+      <link>/categories/features/</link>
       <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
       
-      <guid>http://example.org/categories/features/</guid>
+      <guid>/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://example.org/categories/golang/</link>
+      <link>/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/golang/</guid>
+      <guid>/categories/golang/</guid>
       <description></description>
     </item>
     

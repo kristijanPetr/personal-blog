@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "/"
 title = "Personal Blog"
 author = "Kristijan Petrovski"
 canonifyurls = true
